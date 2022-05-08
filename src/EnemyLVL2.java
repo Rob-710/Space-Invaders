@@ -1,0 +1,2 @@
+public class EnemyLvl2 {
+}
